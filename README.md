@@ -13,6 +13,11 @@ Decide on a image to downscale, or if you have a pixelated image you can go dire
 Using the program "Pixelateimage.py" you go into the code and change line #9 where the input image is beeing defined. Importat to know is that the image and the program has to be situated within the same folder to just be able to write the name of the image, otherwise the path also has to be declared. Line #6 can be used to change how much the image is beeing downcaled. 
 
 Using the image above the resulting image became:
+
 ![output_image](https://user-images.githubusercontent.com/98055937/222794820-7acd015a-ab54-468f-9cbb-76590e50c786.jpg)
 
+## Step 2: Create PDF
+After the pixelated image is created the program "CreatePDF" can be used to extract the pixels from the pixelated image and put them in a A4 PDF to be able to be printed. Where in the code the input and output has to be defined. There are predetermined parameters for the size of the squares that represent the pixels, aswell as how many are beeing printed on each line, these parameters can be changed within the code.
 
+Using the pixaled image from above the reulting PDF looks like:
+<img width="339" alt="Screenshot 2023-03-03 at 19 15 22" src="https://user-images.githubusercontent.com/98055937/222796685-c98a0983-d811-481f-b48e-bfc69e811ef8.png">
