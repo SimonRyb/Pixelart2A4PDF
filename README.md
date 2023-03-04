@@ -2,9 +2,15 @@
 Program for extracting pixels from an image and adding it to an A4 PDF to be able to be printed, aswell as a program for downscaling an image
 
 # Dependencies
-The brogram uses the libaries:
+The program uses the libaries:
   - PIL
   - reportlab
+  
+ These can be installed by running the following commands in a terminal:
+ '''
+ pip install PIL
+ pip install reportlab
+ '''
   
 # Example
 ## Step 1: Choose image and downscale
