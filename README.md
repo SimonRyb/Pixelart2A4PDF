@@ -15,12 +15,12 @@ The program uses the libaries:
 # Example
 ## Step 1: Choose image and downscale
 Decide on a image to downscale, or if you have a pixelated image you can go directly to step 2. The image beeing used will be:
-![input_image_star](https://user-images.githubusercontent.com/98055937/222794677-053debc2-56e2-4940-9ecf-f5f2dd5fb663.JPG)
+<img width="400" alt="input_image_star" src="https://user-images.githubusercontent.com/98055937/222794677-053debc2-56e2-4940-9ecf-f5f2dd5fb663.JPG">
+
 Using the program "Pixelateimage.py" you go into the code and change line #9 where the input image is beeing defined. Importat to know is that the image and the program has to be situated within the same folder to just be able to write the name of the image, otherwise the path also has to be declared. Line #6 can be used to change how much the image is beeing downcaled. 
 
 Using the image above the resulting image became: <br />
-
-![output_image](https://user-images.githubusercontent.com/98055937/222794820-7acd015a-ab54-468f-9cbb-76590e50c786.jpg)
+<img width="400" alt="output_image" src="https://user-images.githubusercontent.com/98055937/222794820-7acd015a-ab54-468f-9cbb-76590e50c786.jpg">
 
 ## Step 2: Create PDF
 After the pixelated image is created the program "CreatePDF" can be used to extract the pixels from the pixelated image and put them in a A4 PDF to be able to be printed. Where in the code the input and output has to be defined. There are predetermined parameters for the size of the squares that represent the pixels, aswell as how many are beeing printed on each line, these parameters can be changed within the code.
