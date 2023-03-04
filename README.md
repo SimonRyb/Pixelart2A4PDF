@@ -7,10 +7,10 @@ The program uses the libaries:
   - reportlab
   
  These can be installed by running the following commands in a terminal:
- '''
+ ```
  pip install PIL
  pip install reportlab
- '''
+ ```
   
 # Example
 ## Step 1: Choose image and downscale
