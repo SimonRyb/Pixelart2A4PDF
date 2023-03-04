@@ -14,7 +14,7 @@ The program uses the libaries:
   
 # Example
 ## Step 1: Choose image and downscale
-Decide on a image to downscale, or if you have a pixelated image you can go directly to step 2. The image beeing used will be:
+Decide on a image to downscale, or if you have a pixelated image you can go directly to step 2. The image beeing used will be: <br />
 <img width="400" alt="input_image_star" src="https://user-images.githubusercontent.com/98055937/222794677-053debc2-56e2-4940-9ecf-f5f2dd5fb663.JPG">
 
 Using the program "Pixelateimage.py" you go into the code and change line #9 where the input image is beeing defined. Importat to know is that the image and the program has to be situated within the same folder to just be able to write the name of the image, otherwise the path also has to be declared. Line #6 can be used to change how much the image is beeing downcaled. 
