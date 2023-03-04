@@ -26,8 +26,8 @@ Using the image above the resulting image became: <br />
 After the pixelated image is created the program "CreatePDF" can be used to extract the pixels from the pixelated image and put them in a A4 PDF to be able to be printed. Where in the code the input and output has to be defined. There are predetermined parameters for the size of the squares that represent the pixels, aswell as how many are beeing printed on each line, these parameters can be changed within the code.
 
 Using the pixaled image from above the reulting PDF looks like: <br />
-<img width="339" alt="Screenshot 2023-03-03 at 19 15 22" src="https://user-images.githubusercontent.com/98055937/222796685-c98a0983-d811-481f-b48e-bfc69e811ef8.png">
+<img width="400" alt="Screenshot 2023-03-03 at 19 15 22" src="https://user-images.githubusercontent.com/98055937/222796685-c98a0983-d811-481f-b48e-bfc69e811ef8.png">
 
 ## Step 3: Print
 The PDF can now be printed, the squares can then be cut out and the circles within each square can then be cut out with a hole punch. An example with another image is shown bellow, where the squares were joined with 3d printed clips: <br />
-![IMG_7064](https://user-images.githubusercontent.com/98055937/222799324-b5e5531a-2429-4f28-a221-3974332e4562.jpg)
+<img width="400" alt="IMG_7064" src="https://user-images.githubusercontent.com/98055937/222799324-b5e5531a-2429-4f28-a221-3974332e4562.jpg">
